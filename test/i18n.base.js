@@ -1,5 +1,5 @@
 // Run $ expresso
-var I18n = require('../i18n'),
+var I18n = require('../lib/i18n'),
 	assert = require('assert');
 
 module.exports = {
