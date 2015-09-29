@@ -13,6 +13,7 @@
     "lib": "."
   },
   "dependencies": {
+    "hoek": "^2.16.3",
     "sprintf": "^0.1.5"
   },
   "devDependencies": {
